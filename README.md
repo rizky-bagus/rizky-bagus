@@ -10,5 +10,5 @@ Let me introduce myself my name is good rizky you can call me rizky or bagus.
 ![Rizky Bagus GitHub stats](https://github-readme-stats.vercel.app/api?username=rizky-bagus&show_icons=true&theme=dark)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizky-bagus&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizky-bagus&layout=compact)
 
